@@ -5,7 +5,7 @@ Solução Cloud DevOps de ponta a ponta para modernização da plataforma **Pedi
 ---
 
 ## 🎥 Vídeo Pitch (Demonstração)
-* **Link do Vídeo (YouTube):** `[INSERIR_LINK_DO_YOUTUBE_AQUI_APOS_GRAVACAO]`
+* **Link do Vídeo (YouTube):** `https://youtu.be/nSMEznAZbo4?si=TEagMV7Nlv-8Y58o`
 
 ---
 
